@@ -54,3 +54,5 @@ if __name__ == '__main__':
     print(checkValidTime("22:01"))
     print(checkValidTime("7:00"))
     print(checkValidTime("6:59"))
+    print()
+    print(answerCall("U", True, "12:00"))
