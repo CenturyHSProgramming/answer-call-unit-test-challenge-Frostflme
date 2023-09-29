@@ -44,7 +44,7 @@ def checkCallerCode(caller: str) -> tuple:
     elif caller == "T":
         return (False, True)
     else:
-        return (True, True)
+        return (True, False)
 
 if __name__ == '__main__':
     print(checkValidTime("11:27"))
