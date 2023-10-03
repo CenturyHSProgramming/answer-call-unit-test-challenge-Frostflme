@@ -8,7 +8,6 @@ A Python 3 If-Structure challenge with unit tests. Your job: program Python to a
 * if it's a relative or friend, answer
 * if it's a telemarketer, don't answer
 * if it's after 10pm or before 7am, don't answer (no matter who it is)
-<!-- I'd answer a call from a friend or relative in the middle of the night -->
 
 **Inputs:**
 ----------
